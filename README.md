@@ -1,4 +1,13 @@
 # Vehicle-Number-Plate-Detector-and-Recognizer
+## MOSAIC (IIT BHU Electronics Engineering Society's Technical Fest's Event based on Image processing and Machine learning)
+
+### Problem Statement for Round 2
+
+### Task
+
+Your task is to implement an automatic number plate recognizer in an unconstrained condition that considers occlusion, poor quality of images, and other spatial variations in 
+image data.
+You can access the full problem statement file from [here](https://drive.google.com/file/d/18K7cK0q-hH3SWVwDUodjh8pJwQbV2S0F/view?usp=sharing)
 
 
 <img src="plate_images/5.jpg" width="1080" > 
