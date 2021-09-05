@@ -26,9 +26,11 @@ For correcting the skewness of the characters we use the function deskew() which
 <img src="images/6.jpg" width="450" height="200">
 
 
-We now reached to our final processed image, we then segment these characters to output them. After that we run our EasyOCR model to recognise the characters.
+We now reached to our final processed image, we then segment these characters to output them. After that we run our EasyOCR model to recognise the characters and the output will be printed in the terminal.
 
+### Glimpse of the project
 
+<img src="images/input.gif" width="720" >
 
 
 
